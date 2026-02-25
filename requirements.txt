@@ -1,0 +1,9 @@
+streamlit==1.54.0
+pandas==2.3.3
+plotly==6.0.0
+numpy==2.4.2
+
+Streamlit cloud → create new app → connect to github
+	⇒ repository ( ZomoatoFeeds )
+	⇒ branch ( main )
+	⇒ main.py
